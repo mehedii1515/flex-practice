@@ -41,6 +41,10 @@
     display: flex;
     color: white;
     font-family: 'Inter', sans-serif;
+    
+}
+.card-title p{
+    margin-top: 10px;
 }
 
 .card-image{
@@ -84,12 +88,17 @@
 
     .card-text{
         height: 70%;
-        padding: 5px;
+        padding: 20px;
     }
     .card-image{
         height: 30%;
     }
    .card-title > h1{
     font-size: 1.4rem;
+    
    }
+   .card-title p{
+    margin-top: 10px;
+}
+
 }
