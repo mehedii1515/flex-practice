@@ -100,5 +100,10 @@
    .card-title p{
     margin-top: 10px;
 }
-
+.card-stat h2{
+font-size: 15px;
+}
+.card-stat p{
+    font-size: 7px;
+    }
 }
